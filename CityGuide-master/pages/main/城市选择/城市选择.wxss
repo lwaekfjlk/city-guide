@@ -111,3 +111,72 @@
 .kind-list-item-bd-show {
   height: auto;
 }
+
+.flex-wrp {
+  margin-top: 60rpx;
+  display: flex;
+}
+
+.flex-item {
+  width: 280rpx;
+  height: 280rpx;
+  font-size: 26rpx;
+}
+
+.demo-text-1 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #2782D7;
+  color: #FFFFFF;
+  font-size: 36rpx;
+  margin:50rpx;
+}
+
+.demo-text-2 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #2782D7;
+  color: #FFFFFF;
+  font-size: 36rpx;
+  margin:50rpx;
+}
+
+.demo-text-3 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #2782D7;
+  color: #FFFFFF;
+  font-size: 36rpx;
+  margin:50rpx;
+}
+
+.demo-text-4 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #1AAD19;
+  color: #FFFFFF;
+  font-size: 36rpx;
+  margin:50rpx;
+}
+
+
+.page-section-title {
+  position:relative;
+  top:50rpx;
+  font-size: 28rpx;
+  color: #999999;
+  margin-bottom: 10rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+
+}
+
+
+.navigatorsqure{
+  padding:0rpx;
+  margin:0rpx;
+}

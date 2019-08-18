@@ -7,7 +7,7 @@ Page({
     list: [
       {
         id: 'xihu',
-        name: '模块选择',
+        name: '请选择查询信息种类',
         open: false,
         pages: ['杭州景点', '杭州交通', '杭州住宿', '杭州美食']
       }

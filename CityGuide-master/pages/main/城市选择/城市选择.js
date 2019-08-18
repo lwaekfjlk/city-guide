@@ -7,7 +7,7 @@ Page({
     list: [
       {
         id: 'xihu',
-        name: '名称选择',
+        name: '请选择城市',
         open: false,
         pages: ['杭州', '上海', '南京']
       }
