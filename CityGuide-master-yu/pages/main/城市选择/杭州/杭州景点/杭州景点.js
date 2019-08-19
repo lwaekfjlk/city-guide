@@ -20,25 +20,25 @@ Page({
         open: false,
         pages: ['简介','情况','地图','评论']
       }, {
-        id: 'lingyinsi',
+        id: '灵隐寺',
         name: '灵隐寺',
         open: false,
         pages: ['简介', '情况', '地图', '评论']
       },
       {
-        id: 'lingyinsi',
+        id: '岳庙',
         name: '岳庙',
         open: false,
         pages: ['简介', '情况', '地图', '评论']
       },
       {
-        id: 'lingyinsi',
+        id: '西溪湿地',
         name: '西溪湿地',
         open: false,
         pages: ['简介', '情况', '地图', '评论']
       },
       {
-        id: 'lingyinsi',
+        id: '良渚遗址',
         name: '良渚遗址',
         open: false,
         pages: ['简介', '情况', '地图', '评论']

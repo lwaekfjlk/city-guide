@@ -1,4 +1,5 @@
-<view class="container" style="background: url('../../picture/城市选择.jpg')">
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="container" style="background: url('../../picture/城市选择.jpg')" >
     <view class="index" style="background: url('../../picture/城市选择.jpg')">
 
       <view class="index-hd">
@@ -75,3 +76,4 @@
       </view>
     </view>
 </view>
+</scroll-view>

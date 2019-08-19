@@ -1,5 +1,6 @@
 .index {
   background-color: #F8F8F8;
+  height:2500rpx;
 }
 .index-hd {
   padding: 80rpx;
