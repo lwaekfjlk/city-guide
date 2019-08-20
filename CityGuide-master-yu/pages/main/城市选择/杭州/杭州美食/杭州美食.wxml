@@ -1,7 +1,8 @@
-<view class="index" style="background: url('/pages/picture/杭州美食.png')">
+<scroll-view scroll-y style="height:100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="index" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
 
   <view class="index-hd">
-    <image class="index-logo" src="../../../../picture/hangzhou.jpg"></image>
+    <image class="index-logo" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/hangzhou.jpg"></image>
     <view class="index-desc">以下为杭州的各个景区，点击即可获得相关信息</view>
   </view>
 
@@ -31,3 +32,4 @@
     </view>
   </view>
 </view>
+</scroll-view>

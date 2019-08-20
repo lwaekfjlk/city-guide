@@ -1,6 +1,6 @@
 .index {
   background-color: #F8F8F8;
-  height:2500rpx;
+  height:1200rpx;
 }
 .index-hd {
   padding: 80rpx;
@@ -58,6 +58,7 @@
 }
 .navigator-text {
   flex: 1;
+  color:#fff;
 }
 .navigator-arrow {
   padding-right: 26rpx;
@@ -90,6 +91,7 @@
 }
 .kind-list-text{
   flex: 1;
+  color:#FFFFFF
 }
 .kind-list-img {
   width: 60rpx;
@@ -111,4 +113,8 @@
 }
 .kind-list-item-bd-show {
   height: auto;
+}
+.more{
+  width:50%;
+  height:50rpx;
 }

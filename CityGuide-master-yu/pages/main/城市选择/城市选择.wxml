@@ -1,6 +1,6 @@
 <scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
-<view class="container" style="background: url('../../picture/城市选择.jpg')" >
-    <view class="index" style="background: url('../../picture/城市选择.jpg')">
+<view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%82%E9%80%89%E6%8B%A9.jpg')" >
+    <view class="index" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%82%E9%80%89%E6%8B%A9.jpg')">
 
       <view class="index-hd">
 
@@ -42,36 +42,57 @@
       <view class="page-section-spacing">
             <view class="flex-wrp" style="flex-direction:row;">
             <navigator url="../城市选择/杭州/杭州"class="navigatorsquare">
-              <view class="flex-item demo-text-1" style="background: url('../../picture/城市1.jpg')">
+              <view class="flex-item demo-text-1" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%821.jpg')">
                 <text>
                   杭州
                 </text>
               </view>
               </navigator>
               <navigator url="../城市选择/上海/上海"class="navigatorsquare">
-                <view class="flex-item demo-text-2"style="background: url('../../picture/城市2.jpeg')">
+                <view class="flex-item demo-text-2"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%822.jpeg')">
                   <text>
                     上海
                   </text>
                 </view>
               </navigator>
             </view>
+
             <view class="flex-wrp" style="flex-direction:row;">
             <navigator url="../城市选择/南京/南京"class="navigatorsquare">
-              <view class="flex-item demo-text-3" style="background: url('../../picture/城市3.jpeg')">
+              <view class="flex-item demo-text-3" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%823.jpeg')">
                 <text>
                   南京
                 </text>
               </view>
             </navigator>
+            <navigator url="../城市选择/citySelector/swichcity/swichcity"class="navigatorsquare">
+              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9B%B4%E5%A4%9A%E5%9F%8E%E5%B8%82.jpg')">
+                <text>
+                  更多城市
+                </text>
+              </view>
+            </navigator>  
+            </view>
+
+            <view class="flex-wrp" style="flex-direction:row;">
             <navigator url="../城市选择/城际交通/城际交通"class="navigatorsquare">
-              <view class="flex-item demo-text-4" style="background: url('../../picture/城际交通.jpeg')">
+              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E9%99%85%E4%BA%A4%E9%80%9A.jpeg')">
                 <text>
                   城际交通
                 </text>
               </view>
             </navigator>  
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85.png')">
+                <text>
+                  敬请期待
+                </text>
+              </view>
+            </navigator>  
             </view>
+
+
+            
 
       </view>
     </view>

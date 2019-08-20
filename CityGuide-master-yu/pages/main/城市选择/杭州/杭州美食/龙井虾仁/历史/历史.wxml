@@ -1,2 +1,12 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/ljxr.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">茶叶入馔，古已有之。据唐《茶赋》载，茶乃“滋饭蔬之精素，攻肉食之膻腻”。
+相传，清末安徽的厨师就已在用“雀舌”、“鹰爪”等茶叶去炒河虾仁了。
+美食家高阳在《古今食事》里曾提及：“翁同龢创制了一道龙井虾仁，即西湖龙井茶叶炒虾仁，真堪与蓬房鱼匹配。”
+相传，杭州厨师受苏东坡词《望江南》“且将新火试新茶，诗酒趁年华”的启发，选用“色绿、香郁、味甘、形美”的明前龙井新茶和鲜河虾仁烹制而成。
+20世纪20年代起，龙井虾仁流行于杭州百姓家庭中；30年代时，常熟厨师将其列入菜谱中；1956年，龙井虾仁名列杭州名菜中；1972年美国总统尼克松访华时，周恩来总理在杭州设宴招待，菜单上就有此菜。</text>
+  </view>
+</view>

@@ -1,2 +1,8 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/dhqx.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">在过去，许多地方风味菜肴往往采用本地特产加以烹饪，如今交通发达，地方特产不再成为其独有的烹饪原料，像杭州这样并不毗邻海洋的城市也能吃到鲜活的海鲜。这道"蛋黄青蟹"就是在保持蟹肉鲜嫩的基础上加入咸蛋黄的香糯，是时下非常流行的一种烹饪方法，让青蟹吃起来别有风味。</text>
+  </view>
+</view>

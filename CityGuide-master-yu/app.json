@@ -11,10 +11,17 @@
     "pages/main/城市选择/杭州/杭州景点/杭州景点",
     "pages/main/城市选择/杭州/杭州交通/杭州交通",
     "pages/main/城市选择/杭州/杭州美食/杭州美食",
-    "pages/main/城市选择/杭州/杭州住宿/杭州住宿",
+    "pages/main/城市选择/杭州/杭州攻略/杭州攻略",
     "pages/main/城市选择/杭州/杭州景点/西湖/情况/情况",
     "pages/main/城市选择/杭州/杭州景点/西湖/简介/简介",
-    "pages/main/城市选择/杭州/杭州景点/西湖/评论/评论"
+    "pages/main/城市选择/杭州/杭州景点/西湖/评论/评论",
+    "pages/main/城市选择/杭州/杭州景点/西湖/地图/地图",
+    "pages/main/城市选择/杭州/杭州交通/地铁/地铁",
+    "pages/main/城市选择/citySelector/swichcity/swichcity",
+    "pages/main/城市选择/杭州/杭州攻略/杭州一日游/杭州一日游",
+    "pages/main/城市选择/杭州/杭州攻略/杭州二日游/杭州二日游",
+    "pages/main/城市选择/杭州/杭州攻略/杭州必去景点/杭州必去景点",
+    "pages/main/城市选择/杭州/杭州攻略/杭州特产/杭州特产"
   ],
   "window": {
     "backgroundTextStyle": "light",

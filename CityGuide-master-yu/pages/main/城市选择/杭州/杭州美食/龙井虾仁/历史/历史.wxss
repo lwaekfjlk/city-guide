@@ -1,1 +1,27 @@
-/* pages/main/hangzhou/xihu/简介/简介.wxss */
+.index-hd {
+  padding: 80rpx;
+  text-align: center;
+}
+.box {
+  margin: 20rpx 0;
+  background-color: #FFFFFF;
+  border-radius: 4rpx;
+  overflow: hidden;
+  width: 600rpx;
+}
+.word {
+  font-size: 14px;
+}
+.picture {
+  width: 500rpx;
+  height: 300rpx;
+}
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+
+} 

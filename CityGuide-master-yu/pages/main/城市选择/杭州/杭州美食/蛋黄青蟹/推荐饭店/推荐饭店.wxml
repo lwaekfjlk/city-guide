@@ -1,2 +1,7 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">小山沟海鲜坊(水产西路店)</text></view>
+    <view class='box-1'><text class="word">宝山大酒店</text></view>
+    <view class='box-1'><text class="word">江芝南大酒店</text></view>
+  </view>
+</view>

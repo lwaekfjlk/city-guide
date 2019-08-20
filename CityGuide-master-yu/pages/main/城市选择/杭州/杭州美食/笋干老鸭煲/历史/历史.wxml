@@ -1,2 +1,8 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/sglyb.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">笋干老鸭煲是浙江杭州地区特色传统名菜之一，汤醇味浓，油而不腻，酥而不烂，生津开胃。老鸭煲的主料取自江南土鸭，即中华绿头鸭，为保持肉质鲜嫩，孵化出壳后，60天生长期内为最佳，同时采用独家配方以砂锅煨制而成，杭州老鸭煲以[张生记]最为火爆。</text>
+  </view>
+</view>

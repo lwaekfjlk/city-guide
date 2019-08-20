@@ -1,2 +1,10 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E7%81%B5%E9%9A%90%E5%AF%BA%E8%AF%84%E8%AE%BA.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">灵隐寺，又名云林寺，位于浙江省杭州市，背靠北高峰，面朝飞来峰，始建于东晋咸和元年（326年），占地面积约87000平方米。灵隐寺开山祖师为西印度僧人慧理和尚。南朝梁武帝赐田并扩建。五代吴越王钱镠命请永明延寿大师重兴开拓，并赐名灵隐新寺。宋宁宗嘉定年间，灵隐寺被誉为江南禅宗“五山”之一。清顺治年间，禅宗巨匠具德和尚住持灵隐，筹资重建，仅建殿堂时间就前后历十八年之久，其规模之宏伟跃居“东南之冠”。清康熙二十八年（1689年），康熙帝南巡时，赐名 “云林禅寺”。
+灵隐寺主要以天王殿、大雄宝殿、药师殿、法堂、华严殿为中轴线，两边附以五百罗汉堂、济公殿、华严阁、大悲楼、方丈楼等建筑构成。现任方丈是光泉法师。
+浙江灵隐寺为全国重点文物保护单位。</text>
+  </view>
+</view>

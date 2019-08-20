@@ -1,2 +1,10 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/yuewangmiao.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">杭州岳王庙，位于西湖西北角，北山路西段北侧。 岳王庙是历代纪念民族英雄岳飞的场所。岳王庙始建于1221年（南宋嘉定十四年），明景泰年间改称“忠烈庙”，经历了元、明、清、民国时兴时废，代代相传一直保存到现在。
+对一代爱国英雄的追思之地。严格地说，这里不应算是一个景点，因为到这里更为了表达一种怀念和敬仰。
+1961年国务院公布岳飞墓庙为全国重点文物保护单位。1993年和1995年岳飞墓先后被杭州市和浙江省授予首批爱国主义教育基地，最近又被国家教委等六个部门命名为全国中小学百个爱国主义教育基地。 整个基地是一组规模宏大的建筑群，占地达15700平方米，建筑面积近3000平方米，主要由墓区和庙区二部分组成。</text>
+  </view>
+</view>

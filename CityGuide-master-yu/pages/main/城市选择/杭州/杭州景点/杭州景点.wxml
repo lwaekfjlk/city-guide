@@ -1,7 +1,8 @@
-<view class="index" style="background: url('/pages/picture/杭州.jpg')">
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="index" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
 
   <view class="index-hd">
-    <image class="index-logo" src="../../../../picture/hangzhou.jpg"></image>
+    <image class="index-logo" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/hangzhou.jpg"></image>
     <view class="index-desc">以下为杭州的各个景区，点击即可获得相关信息</view>
   </view>
 
@@ -10,12 +11,12 @@
       <block wx:for-items="{{list}}" wx:key="{{item.id}}">
         <view class="kind-list-item">
 
-          <view id="{{item.id}}" class="kind-list-item-hd {{item.open ? 'kind-list-item-hd-show' : ''}}"bindtap="kindToggle">
+          <view id="{{item.id}}" class="kind-list-item-hd {{item.open ? 'kind-list-item-hd-show' : ''}}"bindtap="kindToggle" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
             <view class="kind-list-text">{{item.name}}</view>
           </view>
 
           <view class="kind-list-item-bd {{item.open ? 'kind-list-item-bd-show' : ''}}">
-            <view class="navigator-box {{item.open ? 'navigator-box-show' :''}}">
+            <view class="navigator-box {{item.open ? 'navigator-box-show' :''}}" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
 
               <block wx:for-items="{{item.pages}}" wx:for-item="page"wx:key="*item">
                 <navigator url="./{{item.id}}/{{page}}/{{page}}"class="navigator">
@@ -24,10 +25,16 @@
                 </navigator>
               </block>
 
+             
             </view>
           </view>
         </view>
       </block>
-    </view>
-  </view>
+
 </view>
+    </view>
+     
+ 
+  </view>
+ 
+</scroll-view>

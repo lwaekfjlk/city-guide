@@ -1,4 +1,4 @@
-<view class="container" style="background: url('/pages/picture/西溪湿地评论.jpg')">
+<view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E8%AF%84%E8%AE%BA.jpg')">
         <view class="jianjie">西溪湿地评论</view>
         <view class="introduction">
         雪打梨花飘柔肩 傲霜竹影喜春寒        </view>

@@ -1,4 +1,4 @@
-<view class="container" style="background: url('/pages/picture/良渚遗址评论.jpg')">
+<view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%89%AF%E6%B8%9A%E5%8D%9A%E7%89%A9%E9%A6%86%E8%AF%84%E8%AE%BA.jpg')">
         <view class="jianjie">良渚遗址评论</view>
         <view class="introduction">
         行间隐约言尧舜 字里迷离涉夏商        </view>

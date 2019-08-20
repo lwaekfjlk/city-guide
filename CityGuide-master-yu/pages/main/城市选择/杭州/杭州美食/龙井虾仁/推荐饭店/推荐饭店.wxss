@@ -1,1 +1,15 @@
-/* pages/main/hangzhou/xihu/简介/简介.wxss */
+.box {
+  width: 700rpx;
+  background-color: #FFFFFF;
+  margin-top: 30rpx;
+  align-items: center;
+}
+.box-1 {
+  margin-top: 15rpx;
+  display: flex;
+  align-items: center;
+}
+.word {
+  size: 30px;
+  text-align: center;
+}

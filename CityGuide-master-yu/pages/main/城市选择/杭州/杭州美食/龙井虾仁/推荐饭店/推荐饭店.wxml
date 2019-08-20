@@ -1,2 +1,13 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">天兴楼</text></view>
+    <view class='box-1'><text class="word">外婆家●杭儿风(杭州来福士店)</text></view>
+    <view class='box-1'><text class="word">奎元馆(解放路总店)</text></view>
+    <view class='box-1'><text class="word">大牌大传统菜</text></view>
+    <view class='box-1'><text class="word">龙井草堂</text></view>
+    <view class='box-1'><text class="word">知味观·味庄(杨公堤店)</text></view>
+    <view class='box-1'><text class="word">乡阁庭院餐厅</text></view>
+    <view class='box-1'><text class="word">e路吃.杭州家常菜(高银街店)</text></view>
+    <view class='box-1'><text class="word">龙井菜馆</text></view>
+  </view>
+</view>

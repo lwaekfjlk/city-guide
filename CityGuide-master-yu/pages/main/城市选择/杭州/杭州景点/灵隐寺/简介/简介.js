@@ -1,4 +1,4 @@
-// pages/main/hangzhou/xihu/简介/简介.js
+// pages/main/csxz/hz/hzjd/lys/jj/jj.js
 Page({
 
   /**

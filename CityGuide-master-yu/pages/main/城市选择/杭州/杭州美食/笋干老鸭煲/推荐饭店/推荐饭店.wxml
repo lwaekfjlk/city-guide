@@ -1,2 +1,7 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">外婆家(西溪天堂店)</text></view>
+    <view class='box-1'><text class="word">张生记(双菱店)</text></view>
+    <view class='box-1'><text class="word">鸿运轩中餐厅</text></view>
+  </view>
+</view>

@@ -1,2 +1,12 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">天兴楼</text></view>
+    <view class='box-1'><text class="word">城中中餐厅(香格里拉大酒店)</text></view>
+    <view class='box-1'><text class="word">奎元馆(解放路总店)</text></view>
+    <view class='box-1'><text class="word">新柳莺餐厅</text></view>
+    <view class='box-1'><text class="word">杭州家常菜(高银街店)</text></view>
+    <view class='box-1'><text class="word">知味观·味庄(杨公堤店)</text></view>
+    <view class='box-1'><text class="word">杭州酒家</text></view>
+    <view class='box-1'><text class="word">西子湖四季酒店·金沙厅</text></view>
+  </view>
+</view>

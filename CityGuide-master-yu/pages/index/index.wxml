@@ -1,7 +1,7 @@
+
 <!--index.wxml-->
 <scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
-  <view class='container' style="background: url('../picture/background.jpg')">
-
+  <view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/background.jpg')">
   <view class="title">
     <text class="titleword">城市导航</text>
   </view>

@@ -1,1 +1,23 @@
-/* pages/main/hangzhou/xihu/情况/情况.wxss */
+.index {
+  background-color: #F8F8F8;
+}
+.box {
+  width: 700rpx;
+  background-color: #FFFFFF;
+  margin-top: 30rpx;
+}
+.box-1 {
+  margin-top: 15rpx;
+  display: flex;
+}
+.box-2 {
+  width: 300rpx;
+  text-align: center;
+}
+.word-1 {
+  size: 30px;
+}
+.word-2 {
+  size: 20px;
+  color: greenyellow;
+}

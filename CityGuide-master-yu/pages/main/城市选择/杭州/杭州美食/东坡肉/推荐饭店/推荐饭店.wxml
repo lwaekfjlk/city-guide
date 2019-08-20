@@ -1,2 +1,12 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">天兴楼</text></view>
+    <view class='box-1'><text class="word">望园饭店</text></view>
+    <view class='box-1'><text class="word">奎元馆(解放路总店)</text></view>
+    <view class='box-1'><text class="word">王子酒楼(紫金港店)</text></view>
+    <view class='box-1'><text class="word">花中城(清泰街店)</text></view>
+    <view class='box-1'><text class="word">知味观·味庄(杨公堤店)</text></view>
+    <view class='box-1'><text class="word">南山南文艺主题餐厅(青芝坞店)</text></view>
+    <view class='box-1'><text class="word">浙大留学生食堂</text></view>
+  </view>
+</view>

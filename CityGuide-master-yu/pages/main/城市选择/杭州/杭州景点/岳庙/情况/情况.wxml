@@ -1,2 +1,20 @@
-<!--pages/main/hangzhou/xihu/情况/情况.wxml-->
-<text>pages/main/hangzhou/xihu/情况/情况.wxml</text>
+<view class='container' style="background: url('../../../../../../picture/杭州.jpg')">
+  <view class="box">
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">中文名称</text></view>
+      <view class="box-2"><text class="word-2">岳王庙</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">开放时间</text></view>
+      <view class="box-2"><text class="word-2">7:30-17:00</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">门票价格</text></view>
+      <view class="box-2"><text class="word-2">30元</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">著名景点</text></view>
+      <view class="box-2"><text class="word-2">墓区和庙区</text></view>
+    </view>
+  </view>
+</view>

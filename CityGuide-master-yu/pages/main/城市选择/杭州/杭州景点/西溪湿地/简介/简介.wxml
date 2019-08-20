@@ -1,2 +1,9 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/xixishidi.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">浙江杭州西溪国家湿地公园是国家AAAAA级旅游景区，是中国第一个集城市湿地、农耕湿地、文化湿地于一体的国家级湿地公园。园内生态资源丰富、自然景观幽雅、文化积淀深厚，与西湖、西泠并称杭州“三西”。位于浙江省杭州市区西部，距西湖不到5公里，规划总面积11.5平方公里，湿地内河流总长100多公里，约70%的面积为河港、池塘、湖漾、沼泽等水域。西溪国家湿地公园获得“中国第一国家湿地公园”、“中国湿地博物馆”、“国家环保科普基地”、“全国科普教育基地”、“国家生态文明教育基地”等荣誉称号。
+2009年7月7日，西溪湿地载入国际重要湿地名录。2013年10月31日被中央电视台评选为中国“十大魅力湿地”。</text>
+  </view>
+</view>

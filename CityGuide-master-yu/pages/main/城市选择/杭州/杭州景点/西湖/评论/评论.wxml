@@ -1,4 +1,4 @@
-<view class="container" style="background: url('/pages/picture/西湖评论.jpg')">
+<view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%B9%96%E8%AF%84%E8%AE%BA.jpg')">
         <view class="jianjie">西湖评论</view>
         <view class="introduction">
         欲把西湖比西子 淡妆浓抹总相宜        </view>

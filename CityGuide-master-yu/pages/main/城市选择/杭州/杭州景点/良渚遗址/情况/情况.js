@@ -1,4 +1,4 @@
-// pages/main/hangzhou/xihu/情况/情况.js
+// pages/main/csxz/hz/hzjd/lcyz/qk/qk.js
 Page({
 
   /**

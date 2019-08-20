@@ -1,2 +1,10 @@
-<!--pages/main/hangzhou/xihu/简介/简介.wxml-->
-<text>haaaaaaaaaaaaaaaaaaaa</text>
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/xhcy.jpg"></image>
+  </view>
+  <view class="box">
+    <text class="word">西湖醋鱼的历史，源于南宋京都临安（今杭州），得从南宋杭州的“宋嫂鱼羹”说起。
+宋五嫂，为南宋著名民间女厨师，高宗赵构乘龙舟西湖，曾尝其鱼羹，赞美不已，于是名声大振，奉为脍鱼之“师祖”。从此，宋嫂鱼羹，遂扬名于世。其后又经名手整治，乃成西湖醋鱼与宋嫂鱼羹两种名菜，流传至今。
+民国时期，文人梁实秋曾记载过该菜的烹饪方法：选用西湖草鱼，鱼长不过尺，重不逾半斤，宰割收拾过后沃以沸汤，熟即起锅，勾芡调汁，浇在鱼上，即可上桌。如今在杭州几个著名饭店都有这道菜，但杭州居民家中并不常见，现在部分饭店已经用鲈鱼替代。</text>
+  </view>
+</view>
