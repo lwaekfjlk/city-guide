@@ -20,7 +20,7 @@
 
               <block wx:for-items="{{item.pages}}" wx:for-item="page"wx:key="*item">
                 <navigator url="./{{page}}/{{page}}"class="navigator">
-                  <view class="navigator-text">{{page}}</view>
+                  <view class="navigator-text" bindtap="toast1Tap">{{page}}</view>
                   <view class="navigator-arrow"></view>
                 </navigator>
               </block>

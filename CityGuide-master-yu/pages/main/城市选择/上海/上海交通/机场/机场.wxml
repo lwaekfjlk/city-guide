@@ -1,0 +1,14 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="index">
+  <view class="airport">上海虹桥国际机场</view>
+  <view class="index">
+  <map id="map" longitude="121.340218" latitude="31.196651" scale="16" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
+  </map>
+</view>
+  <view class="airport">上海浦东国际机场</view>
+  <view class="index">
+  <map id="map" longitude="121.8146896" latitude="31.139954" scale="16" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
+  </map>
+</view>
+</view>
+</scroll-view>

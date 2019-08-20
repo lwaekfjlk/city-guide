@@ -1,0 +1,30 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class='container' style="background: url('../../../../../../picture/杭州.jpg')">
+  <view class="box">
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">中文名称</text></view>
+      <view class="box-2"><text class="word-2">东方明珠广播电视塔</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">外文名称</text></view>
+      <view class="box-2"><text class="word-2">The Oriental Pearl Radio & TV Tower</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">地理位置</text></view>
+      <view class="box-2"><text class="word-2">上海市浦东新区世纪大道1号</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">景点级别</text></view>
+      <view class="box-2"><text class="word-2">国家AAAAA级旅游景区</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">开放时间</text></view>
+      <view class="box-2"><text class="word-2">8:00-21:30</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">塔高</text></view>
+      <view class="box-2"><text class="word-2">约468米</text></view>
+    </view>
+  </view>
+</view>
+</scroll-view>

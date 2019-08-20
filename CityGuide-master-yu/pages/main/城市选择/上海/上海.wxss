@@ -41,6 +41,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  border-radius: 50rpx;
 }
 .navigator:before {
   content: " ";
@@ -57,6 +58,7 @@
 }
 .navigator-text {
   flex: 1;
+  color:#FFFFFF;
 }
 .navigator-arrow {
   padding-right: 26rpx;
@@ -89,6 +91,7 @@
 }
 .kind-list-text{
   flex: 1;
+  color:#FFFFFF;
 }
 .kind-list-img {
   width: 60rpx;
@@ -98,7 +101,7 @@
   padding: 30rpx;
   display: flex;
   align-items: center;
-
+  border-radius: 80rpx;
   transition: opacity .3s;
 }
 .kind-list-item-hd-show {

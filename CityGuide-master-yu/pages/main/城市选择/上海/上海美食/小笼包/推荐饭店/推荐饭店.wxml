@@ -1,0 +1,14 @@
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">佳家汤包</text></view>
+    <view class='box-1'><text class="word">莱莱小笼</text></view>
+    <view class='box-1'><text class="word">南翔馒头</text></view>
+    <view class='box-1'><text class="word">上味馆南翔小笼</text></view>
+    <view class='box-1'><text class="word">蒋荣兴外滩汤包</text></view>
+    <view class='box-1'><text class="word">嗲记汤包馆</text></view>
+    <view class='box-1'><text class="word">沈大成</text></view>
+    <view class='box-1'><text class="word">富春小笼</text></view>
+    <view class='box-1'><text class="word">乐忻皇朝</text></view>
+    <view class='box-1'><text class="word">老盛昌汤包</text></view>
+  </view>
+</view>

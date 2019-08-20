@@ -28,5 +28,10 @@ Page({
       list
     })
     wx.reportAnalytics('click_view_programmatically', {})
+  },
+  toast1Tap() {
+    wx.showToast({
+      title: '该功能尚未对外开放'
+    })
   }
 })

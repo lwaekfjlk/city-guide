@@ -3,11 +3,13 @@
   text-align: center;
 }
 .box {
-  margin: 20rpx 0;
+  margin: 20rpx 20rpx ;
   background-color: #FFFFFF;
   border-radius: 4rpx;
   overflow: hidden;
   width: 600rpx;
+  position:absolute;
+  top:300rpx;
 }
 .word {
   font-size: 14px;

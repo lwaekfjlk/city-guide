@@ -1,3 +1,4 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
 <view class='container' style="background: url('../../../../../../picture/杭州.jpg')">
   <view class="box">
     <view class="box-1" style="flex-direction:row;">
@@ -18,3 +19,4 @@
     </view>
   </view>
 </view>
+</scroll-view>

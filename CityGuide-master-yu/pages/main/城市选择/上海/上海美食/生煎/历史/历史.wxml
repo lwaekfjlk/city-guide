@@ -1,0 +1,9 @@
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picutureshanghai/%E7%94%9F%E7%85%8E.png"></image>
+  </view>
+  <view class="box">
+    <text class="word">生煎又称生煎馒头，是流行于上海、浙江，江苏及广东的一种特色传统小吃，广受国人喜爱，材料有面粉、芝麻、葱花、猪肉、肉皮冻等。原为茶楼、老虎灶（开水店）兼营品种。馅心以鲜猪肉加皮冻为主，20世纪30年代后，上海饮食业有了生煎的专营店，馅心花色也增加了玉米、荠菜、虾仁等多种品种。
+</text>
+  </view>
+</view>

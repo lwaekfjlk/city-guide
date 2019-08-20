@@ -1,8 +1,8 @@
 <scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
 <view class="index">
-  <view class="airport">杭州机场</view>
+  <view class="airport">杭州萧山国际机场</view>
   <view class="index">
-  <map id="map" longitude="120.141105" latitude="30.258362" scale="16" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
+  <map id="map" longitude="120.432644" latitude="30.234599" scale="16" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
   </map>
 </view>
 </view>

@@ -1,0 +1,7 @@
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">小山沟海鲜坊(水产西路店</text></view>
+    <view class='box-1'><text class="word">小桃园(复兴中路店)</text></view>
+
+  </view>
+</view>

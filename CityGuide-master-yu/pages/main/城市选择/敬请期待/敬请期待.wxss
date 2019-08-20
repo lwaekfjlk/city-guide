@@ -12,3 +12,7 @@
   position:absolute;
   top:700rpx;
 }
+.image{
+  width:400rpx;
+  height:400rpx;
+}

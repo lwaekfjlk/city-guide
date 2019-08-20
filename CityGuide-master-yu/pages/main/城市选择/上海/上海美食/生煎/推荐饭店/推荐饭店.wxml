@@ -1,0 +1,11 @@
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">大壶春</text></view>
+    <view class='box-1'><text class="word">金彪生煎王</text></view>
+    <view class='box-1'><text class="word">丰裕生煎</text></view>
+    <view class='box-1'><text class="word">小杨生煎</text></view>
+    <view class='box-1'><text class="word">东泰祥生煎馆</text></view>
+    <view class='box-1'><text class="word">晓燕生煎</text></view>
+    <view class='box-1'><text class="word">吾煎道生煎</text></view>
+  </view>
+</view>

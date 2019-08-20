@@ -11,31 +11,32 @@
 
       <view class="page-section-spacing">
             <view class="flex-wrp" style="flex-direction:row;">
-            <navigator url="../杭州交通/公交/公交"class="navigatorsquare">
-              <view class="flex-item demo-text-1" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%85%AC%E4%BA%A4.jpeg')">
+            <!--navigator url="../杭州交通/公交/公交"class="navigatorsquare"-->
+              <view class="flex-item demo-text-1" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%85%AC%E4%BA%A4.jpeg')" bindtap="toast1Tap">
                 <text>
                   公交
                 </text>
               </view>
-              </navigator>
-              <navigator url="../杭州交通/地铁/地铁"class="navigatorsquare">
-                <view class="flex-item demo-text-2"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9C%B0%E9%93%81.png')">
+              <!--/navigator-->
+              <!--navigator url="../杭州交通/地铁/地铁"class="navigatorsquare"-->
+                <view class="flex-item demo-text-2"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9C%B0%E9%93%81.png')" bindtap="toast1Tap">
                   <text>
                     地铁
                   </text>
                 </view>
-              </navigator>
+              <!--/navigator-->
             </view>
             <view class="flex-wrp" style="flex-direction:row;">
             <navigator url="../杭州交通/机场/机场"class="navigatorsquare">
-              <view class="flex-item demo-text-3" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E7%81%AB%E8%BD%A6.jpeg')">
+              <view class="flex-item demo-text-3" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E9%A3%9E%E6%9C%BA.jpeg')">
                 <text>
                   机场
                 </text>
               </view>
             </navigator>
             <navigator url="../杭州交通/火车站/火车站"class="navigatorsquare">
-              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E9%A3%9E%E6%9C%BA.jpeg')">
+              <view class="flex-item demo-text-4" 
+              style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E7%81%AB%E8%BD%A6.jpeg')">
                 <text>
                   火车站
                 </text>

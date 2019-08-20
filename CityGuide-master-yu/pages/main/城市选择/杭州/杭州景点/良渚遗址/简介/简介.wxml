@@ -1,11 +1,15 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
 <view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
   <view class="index-hd">
     <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/lcyz.jpg"></image>
   </view>
   <view class="box">
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
     <text class="word">良渚遗址，位于浙江省余杭县和德清县境内，为新石器时代晚期文化遗址群，年代为公元前3300年至公元前2000年。
 良渚遗址发现于民国25年（1936年），遗址群中发现有分布密集的村落、墓地、祭坛等各种遗存，出土物中以大量精美的玉礼器最具特色。这些遗迹、遗物的发现，显示出良渚文化遗址群已成为证实中华五千年文明史的、最具规模和水平的地区之一。良渚遗址是“良渚文化”的命名地，它的发现对研究长江下游地区的文明起源具有重要的学术价值。
 1996年11月，良渚遗址被中华人民共和国国务院列为第四批全国重点文物保护单位。 
 2019年7月6日，中国良渚古城遗址获准列入世界遗产名录。良渚古城遗址是人类早期城市文明的范例，实证中华五千年文明史。此次申遗成功，标志着中华五千年文明史得到国际社会认可。</text>
-  </view>
+</scroll-view>  
 </view>
+</view>
+</scroll-view>

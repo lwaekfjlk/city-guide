@@ -1,0 +1,10 @@
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picutureshanghai/%E5%92%B8%E6%B5%86.png"></image>
+  </view>
+  <view class="box">
+    <text class="word">上海咸浆，上海人所说的豆浆，其实指的是咸浆。咸浆，是豆浆里花头最浓的一种，一般里面都会有油条片+榨菜末+虾皮+葱花+紫菜+鲜酱油+辣油，实实足足的一碗，配着花卷馒头，一顿早饭营养又好吃。
+咸浆，顾名思义是咸的浆。上海早点摊上的豆浆有三种：淡浆、甜浆和咸浆。淡浆和甜浆，全世界的吃口基本差不多，唯有这咸浆，离开上海，就离了它的味。
+</text>
+  </view>
+</view>

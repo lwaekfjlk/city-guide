@@ -1,0 +1,59 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view  style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%82%E7%8E%BB%E7%92%83.jpg')">
+
+<view class="article">
+<text >龙美术馆
+
+龙美术馆的前身是个特别繁华的码头，
+
+主要是供煤炭运输的，
+
+因此在设计这两座美术馆时，建筑师们还特意保留了这种冰冷的工业风，
+
+整个建筑墙面没有任何粉刷，混凝土的质感十分强烈，
+
+但又极具独特的感觉，本身建筑的线条就很简洁、流畅，
+
+让人喜不胜烦。
+
+美术馆本身分有西岸馆和浦东馆，
+
+其中西岸馆则是坐落于徐汇区，而浦东馆则临近黄浦江边。
+</text>
+</view>
+
+<view class="article">
+<text >安福路
+
+这里是一条以话剧而出名的道路，如果你想欣赏话剧的话，
+
+来这里是绝对没错的。
+
+但地道的老上海人，除了喜欢看话剧以外，
+
+也不会错过这里精心制作的咖啡，香醇、美味，再点个简餐做下午茶美滋滋。
+
+其中最受欢迎的一家咖啡馆叫马里昂巴，
+
+老板是个特别有故事的人，遇到他心情好的时候，还很乐意和你侃天吹牛呢。
+
+除此之外，这里也有很多精品的小店，
+
+卖着各种很小资的物品，比如CD牒、手工艺品等等，
+
+如果你想来点怀旧或复古的味道，逛逛这些店肯定能淘到不少惊喜的。
+</text>
+</view>
+
+
+<view class="article">
+<text >1933老场坊
+
+早在上世纪30年代时，老场坊就是上海最出名的一座建筑，
+
+尽管是座屠宰场，但建筑本身还是由英国著名设计师对其进行设计的，
+
+可见其是有多么高大上，同时也见证了老上海的繁华。</text>
+</view>
+</view>
+</scroll-view>

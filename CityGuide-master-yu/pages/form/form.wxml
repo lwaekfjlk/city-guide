@@ -1,4 +1,4 @@
-<view class="container" style="background: url('/pages/picture/评价1.jpg')">
+<view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%82%E7%8E%BB%E7%92%83.jpg')">
         <view class="jianjie">简介</view>
         <view class="introduction">
         这是浙江大学微信小程序课程大作业，我们期待您对本程序的评论！        </view>

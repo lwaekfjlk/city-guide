@@ -1,0 +1,82 @@
+<scroll-view scroll-y style="height:100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="index" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+
+  <view class="index-hd">
+
+    <view class="index-desc">请选择您要前往的城市以获取更多信息 </view>
+
+  </view>
+
+  <view class="index-bd">
+    <view class="kind-list">
+      <block wx:for-items="{{list}}" wx:key="{{item.id}}">
+        <view class="kind-list-item" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+
+          <view id="{{item.id}}" class="kind-list-item-hd {{item.open ? 'kind-list-item-hd-show' : ''}}"bindtap="kindToggle" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9C%9D%E9%9C%9E.jpg')">
+            <view class="kind-list-text">{{item.name}}</view>
+          </view>
+
+          <view class="kind-list-item-bd {{item.open ? 'kind-list-item-bd-show' : ''}}" >
+            <view class="navigator-box {{item.open ? 'navigator-box-show' :''}}" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+
+              <block wx:for-items="{{item.pages}}" wx:for-item="page"wx:key="*item">
+                <navigator url="./{{page}}/{{page}}"class="navigator"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E.jpg')">
+                  <view class="navigator-text">{{page}}</view>
+                  <view class="navigator-arrow"></view>
+                </navigator>
+              </block>
+
+            </view>
+          </view>
+        </view> 
+      </block>
+    </view>
+  </view>
+
+
+
+  <view class="page-section-title">
+            <text>以下为热门旅行社</text>
+      </view>
+
+      <view class="page-section-spacing">
+            <view class="flex-wrp" style="flex-direction:row;">
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-1" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E4%BA%A4%E9%80%9A.jpg')">
+                <text>
+                  春秋
+                </text>
+              </view>
+              </navigator>
+              <navigator url=""class="navigatorsquare">
+                <view class="flex-item demo-text-2"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E8%AF%84%E8%AE%BA.jpg')">
+                  <text>
+                    中青
+                  </text>
+                </view>
+              </navigator>
+            </view>
+
+            <view class="flex-wrp" style="flex-direction:row;">
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-3" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/lingyinsi.jpg')">
+                <text>
+                  神舟
+                </text>
+              </view>
+            </navigator>
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+                <text>
+                  和平
+                </text>
+              </view>
+            </navigator>  
+            </view>
+  </view>
+    <view>
+    <map id="map" longitude="120.07965" latitude="30.30200" scale="12" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
+    </map>
+  </view>
+</view>
+</scroll-view>

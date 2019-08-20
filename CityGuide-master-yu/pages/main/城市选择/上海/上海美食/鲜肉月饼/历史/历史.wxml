@@ -1,0 +1,9 @@
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picutureshanghai/%E9%B2%9C%E8%82%89%E6%9C%88%E9%A5%BC.png"></image>
+  </view>
+  <view class="box">
+    <text class="word">江浙沪一带的传统特色小吃。苏式月饼的一种，中秋节节令食品。顾名思义，馅完全是由一大团鲜肉（猪肉）组成，皮脆而粉，又潜伏着几分韧，丰腴的肉汁慢慢渗透其间，可谓一绝。
+</text>
+  </view>
+</view>

@@ -1,0 +1,30 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view class="index">
+  <view class="box">
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">中文名称</text></view>
+      <view class="box-2"><text class="word-2">上海迪士尼乐园</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">外文名称</text></view>
+      <view class="box-2"><text class="word-2">Shanghai Disney Resort</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">地理位置</text></view>
+      <view class="box-2"><text class="word-2">中国上海市浦东新区川沙新镇</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">开放时间</text></view>
+      <view class="box-2"><text class="word-2">8:00至22:00</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">门票价格</text></view>
+      <view class="box-2"><text class="word-2">平日399元，高峰日575元,春节和国庆节665元</text></view>
+    </view>
+    <view class="box-1" style="flex-direction:row;">
+      <view class="box-2"><text class="word-1">著名景点</text></view>
+      <view class="box-2"><text class="word-2">七个主题园区、最美人工湖、娱乐演出等</text></view>
+    </view>
+  </view>
+</view>
+</scroll-view>

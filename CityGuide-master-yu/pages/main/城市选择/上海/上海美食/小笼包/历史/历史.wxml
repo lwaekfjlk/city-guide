@@ -1,0 +1,9 @@
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picutureshanghai/%E5%B0%8F%E7%AC%BC%E5%8C%85.png"></image>
+  </view>
+  <view class="box">
+    <text class="word">小笼包，别称小笼馒头，在苏南、上海、浙江一带习惯叫做小笼馒头，四川叫做小笼包子，武汉叫做蒸包，一个蒸笼里有10个包子，10个包子为一笼，它源于北宋京城开封的灌汤包，南宋时在江南承传、发展和演变而成。小笼包是常州、无锡、苏州、上海、南京、杭州、宁波、嘉兴、芜湖、徽州、嵊州等江南地区著名的传统小吃。
+清代道光年间，在今江苏常州出现了现代形式的小笼包，并在各地都形成了各自的特色，如常州味鲜，无锡味甜，苏州味美，但都具有皮薄卤足、鲜香美味等共同特点，并在开封、天津等地也得到了传扬。而诞生于清末同治十年的上海南翔小笼同样历史悠久，享誉中外。</text>
+  </view>
+</view>

@@ -1,3 +1,4 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
 <view class="container" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%B9%96%E8%AF%84%E8%AE%BA.jpg')">
         <view class="jianjie">西湖评论</view>
         <view class="introduction">
@@ -66,4 +67,4 @@
         </view> 
         </view> 
         </view>
-
+</scroll-view>

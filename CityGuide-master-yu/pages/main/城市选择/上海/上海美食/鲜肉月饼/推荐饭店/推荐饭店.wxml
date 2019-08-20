@@ -1,0 +1,10 @@
+<view class='container' style="background: url('../../../../../../picture/杭州美食.png')">
+  <view class="box">
+    <view class='box-1'><text class="word">王宝和大酒店</text></view>
+    <view class='box-1'><text class="word">真老大房</text></view>
+    <view class='box-1'><text class="word">沈大成</text></view>
+    <view class='box-1'><text class="word">王家沙</text></view>
+    <view class='box-1'><text class="word">西区老大房</text></view>
+    <view class='box-1'><text class="word">新川饮食店</text></view>
+  </view>
+</view>

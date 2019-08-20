@@ -3,7 +3,7 @@
 
   <view class="index-hd">
     <image class="index-logo" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/hangzhou.jpg"></image>
-    <view class="index-desc">以下为杭州的各个景区，点击即可获得相关信息</view>
+    <view class="index-desc">以下为杭州的各色小吃，点击即可获得相关信息</view>
   </view>
 
   <view class="index-bd">

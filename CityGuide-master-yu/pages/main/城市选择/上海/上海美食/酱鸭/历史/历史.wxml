@@ -1,0 +1,9 @@
+<view class='container' style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+  <view class="index-hd">
+    <image class="picture" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picutureshanghai/%E9%85%B1%E9%B8%AD.png"></image>
+  </view>
+  <view class="box">
+    <text class="word">酱鸭，是江南地区特色的传统风味名菜之一。其因色泽黄黑而得名，具有鲜、香、酥、嫩的特点。酱鸭还具有清热解毒、滋阴降火、止血痢和滋补之功效，但忌与兔肉、杨梅、核桃等同用。
+</text>
+  </view>
+</view>

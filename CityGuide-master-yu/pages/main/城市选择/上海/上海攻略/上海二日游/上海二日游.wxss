@@ -1,0 +1,11 @@
+
+.article{
+  width:80%;
+  color:white;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin:60rpx;
+  font-weight: 600;
+  font-size:56rpx;
+}/* pages/main/城市选择/杭州/杭州攻略/杭州二日游/杭州二日游.wxss */
