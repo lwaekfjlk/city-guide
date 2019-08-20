@@ -21,7 +21,8 @@
     "pages/main/城市选择/杭州/杭州攻略/杭州一日游/杭州一日游",
     "pages/main/城市选择/杭州/杭州攻略/杭州二日游/杭州二日游",
     "pages/main/城市选择/杭州/杭州攻略/杭州必去景点/杭州必去景点",
-    "pages/main/城市选择/杭州/杭州攻略/杭州特产/杭州特产"
+    "pages/main/城市选择/杭州/杭州攻略/杭州特产/杭州特产",
+    "pages/main/城市选择/敬请期待/敬请期待"
   ],
   "window": {
     "backgroundTextStyle": "light",

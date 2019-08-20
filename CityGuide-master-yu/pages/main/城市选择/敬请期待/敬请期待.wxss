@@ -1,0 +1,14 @@
+.button{
+  width:300rpx;
+  background:#000;
+  color:#fff;
+  border-radius: 100rpx;
+  opacity:0.5;
+  position:relative;
+  top:80%;
+}
+
+.picture{
+  position:absolute;
+  top:700rpx;
+}

@@ -1,2 +1,22 @@
 <!--pages/main/城市选择/杭州/杭州攻略/杭州特产/杭州特产.wxml-->
-<text>pages/main/城市选择/杭州/杭州攻略/杭州特产/杭州特产.wxml</text>
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view  style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%99%9A%E9%9C%9E2.jpg')">
+
+<view class="article">
+<text>吃的：
+
+龙井茶，便宜的十几块一斤，贵的上千块一两，不同消费水平选不同档次的，反正都是龙井茶。
+藕粉，很亲民的，像芝麻糊一样，上到八十岁的老奶奶，下到三岁的小把戏都能吃。
+笋干，好吃又好带。
+山核桃，这个东西价格上不够亲民，而且中国很多地区的人民都不吃小核桃，所以要确认你的外地同学知道怎么吃。我听说过有四川的同学第一次吃山核桃，是带壳直接咽下去的。。。
+莼菜，也很亲民，以西湖两个字打头会显得和杭州关系很紧密。
+
+用的：
+
+张小泉剪刀，现在铁路民航安检怎么严格，在安检处被没收就可惜了。
+王星记扇子，丝巾，这两个东西又轻巧又精致，价格也合理，我觉得很适合送女性的长辈。杭高边上的丝绸街可以淘到很多好货。天堂伞，很实惠很亲民的现代特产，比西湖绸伞亲民。天竺筷，价廉物美，挑选那种印着西湖风景筷子。
+
+</text>
+</view>
+</view>
+</scroll-view>

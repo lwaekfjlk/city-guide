@@ -1,0 +1,15 @@
+<view class='container'>
+
+  <image class="image" src="https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%B5%99%E5%A4%A7%E6%A0%A1%E5%BE%BD.png" mode='aspectFill'></image>
+ <view class="picture">
+ <button class='button' bindtap='buttonTap' type='primary'>开发进度</button>
+ </view>
+ <modal title="开发进度" hidden="{{modalHidden}}" bindconfirm="modalConfirm" bindcancel="modalCandel">
+ 
+ <view>这里是浙江大学计算机学院小学期微信小程序开发大作业</view>
+ <view>目前的开发进度是完成了杭州的完整内容</view>
+    目前该版本仅仅支持杭州，上海，南京三个城市的基本功能。后续预计会增加的功能包括扩大城市的个数，进一步完善提供的服务种类。
+
+ </modal>
+
+</view>

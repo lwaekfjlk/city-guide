@@ -82,10 +82,10 @@
                 </text>
               </view>
             </navigator>  
-            <navigator url=""class="navigatorsquare">
+            <navigator url="../城市选择/敬请期待/敬请期待"class="navigatorsquare">
               <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%95%AC%E8%AF%B7%E6%9C%9F%E5%BE%85.png')">
                 <text>
-                  敬请期待
+                  开发进度
                 </text>
               </view>
             </navigator>  

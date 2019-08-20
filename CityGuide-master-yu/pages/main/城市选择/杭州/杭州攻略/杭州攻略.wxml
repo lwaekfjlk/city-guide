@@ -33,7 +33,48 @@
     </view>
   </view>
 
-  <view>
+
+
+  <view class="page-section-title">
+            <text>以下为热门旅行社</text>
+      </view>
+
+      <view class="page-section-spacing">
+            <view class="flex-wrp" style="flex-direction:row;">
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-1" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E4%BA%A4%E9%80%9A.jpg')">
+                <text>
+                  春秋
+                </text>
+              </view>
+              </navigator>
+              <navigator url=""class="navigatorsquare">
+                <view class="flex-item demo-text-2"style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E8%AF%84%E8%AE%BA.jpg')">
+                  <text>
+                    中青
+                  </text>
+                </view>
+              </navigator>
+            </view>
+
+            <view class="flex-wrp" style="flex-direction:row;">
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-3" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/lingyinsi.jpg')">
+                <text>
+                  神舟
+                </text>
+              </view>
+            </navigator>
+            <navigator url=""class="navigatorsquare">
+              <view class="flex-item demo-text-4" style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E7%BE%8E%E9%A3%9F.png')">
+                <text>
+                  和平
+                </text>
+              </view>
+            </navigator>  
+            </view>
+  </view>
+    <view>
     <map id="map" longitude="120.07965" latitude="30.30200" scale="12" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 500px;">
     </map>
   </view>

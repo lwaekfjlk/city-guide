@@ -1,2 +1,17 @@
-<!--pages/main/城市选择/杭州/杭州攻略/杭州二日游/杭州二日游.wxml-->
-<text>pages/main/城市选择/杭州/杭州攻略/杭州二日游/杭州二日游.wxml</text>
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view  style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E8%AF%84%E8%AE%BA.jpg')">
+<!--pages/main/城市选择/杭州/杭州攻略/杭州一日游/杭州一日游.wxml-->
+
+<view class="article">
+<text >DAY1
+
+今天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼~~</text>
+</view>
+
+<view class="article">
+<text >DAY2
+
+上午先参观可与重庆大足石刻媲美的飞来峰，然后去看看传说中济公出家的地方-灵隐寺；下午先游览梨花最多的浴鹄湾，之后登六和塔远眺钱塘江；晚上去最有杭州历史风貌的河坊街看一看夜景。西湖周边有各种各样的特色客栈，星级酒店，大都很有情调，而且交通方便，美食众多，推荐此区域入住。</text>
+</view>
+</view>
+</scroll-view>

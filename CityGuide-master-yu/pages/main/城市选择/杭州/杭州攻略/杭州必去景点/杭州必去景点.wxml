@@ -1,2 +1,28 @@
-<!--pages/main/城市选择/杭州/杭州攻略/杭州必去景点/杭州必去景点.wxml-->
-<text>pages/main/城市选择/杭州/杭州攻略/杭州必去景点/杭州必去景点.wxml</text>
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view  style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E5%9F%8E%E5%B8%82%E7%8E%BB%E7%92%83.jpg')">
+
+<view class="article">
+<text >小河直街
+
+这条街上生活着许多地地道道的老杭州人，午饭时刻隔的老远都能闻到餐厅飘出的饭菜香味，周边还有各种创意文艺小店，非常适合拍照，非常接地气却没有杂乱的感觉，反而有一种十分美好的市井气息之感，沿河两岸有很多名不经传的小馆子，闲暇时候可以选一个临河位置，看着运河景色，吃着地道杭州美食，可以说最惬意不过了。
+</text>
+</view>
+
+<view class="article">
+<text >法云安缦
+
+法云安缦，他的设计里面源自于“8世纪的中国村落”，可以说是目前杭州最贵的杭州最贵的酒店了。大名鼎鼎的灵隐寺和永福寺就在旁边，法云安缦保留了杭州最原始村庄的木头和砖瓦结构，房间形态各异的散落在小村当中，贫民窟女孩可以去吃一吃逛一逛，土豪请自动入住。
+
+交通地址：西湖街道法云弄22号</text>
+</view>
+
+
+<view class="article">
+<text >杭州佛学院
+
+万万没想到的景点之一，杭州佛学院让你从此出家有着落，这座佛家学校位于天竺法净禅寺里，距离法云安缦不远，就在隔壁，日常都是不对外开放正常上课的，只有周末时候可以进行参观，佛学院偶尔还会开设高端禅修课程，我觉得自己需要去修炼一番。
+
+交通地址：杭州市西湖区天竺路112号</text>
+</view>
+</view>
+</scroll-view>

@@ -1,2 +1,21 @@
+<scroll-view scroll-y style="height: 100%;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+<view  style="background: url('https://cityguide-1300056072.cos.ap-chengdu.myqcloud.com/picture/%E6%9D%AD%E5%B7%9E%E4%BA%A4%E9%80%9A.jpg')">
 <!--pages/main/城市选择/杭州/杭州攻略/杭州一日游/杭州一日游.wxml-->
-<text>pages/main/城市选择/杭州/杭州攻略/杭州一日游/杭州一日游.wxml</text>
+<view class="article">
+<text >自由行打卡景点游西湖（雷峰塔-收费，苏堤，三潭印月-收费，花港观鱼，曲院风荷，白堤，断桥）
+上午，雷峰塔，在西湖的东南角，可以走路或者电瓶车（西湖边专用电瓶车20元）到雷峰塔；
+然后，雷峰塔出来走路到苏堤，直线距离430米；苏堤沿线景点，三潭印月上船点，花港观鱼，曲院风荷。
+
+沿着苏堤往里面走400米，坐船上三潭印月（记得坐往返的船，因为还有去其他地方的船）；
+三潭印月回来，下船对面就是花港观鱼，参观完后；
+
+可沿苏堤步行，顺便欣赏一下苏堤两边的西湖风景，里西湖和外西湖；
+如果是荷花盛开季节，可以参观一下曲院风荷；
+
+然后，沿西湖边往断桥方向走；
+
+会经过孤山，西冷印社，杭州博物馆等；
+如果累了，可以坐（西湖专用电瓶车）到白堤，断桥就在白堤上，是否能遇上你的白娘子（许仙）呢~~</text>
+</view>
+</view>
+</scroll-view>
